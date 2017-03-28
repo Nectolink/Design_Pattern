@@ -1,0 +1,22 @@
+#map {
+    width: 100%;
+    height: 400px;
+    background-color: grey;
+}
+
+#move
+{
+
+    height:30px;
+    margin:0 auto;
+    margin-right:600px;
+
+    float:right;
+}
+body
+{
+    background: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    position: relative;
+}
